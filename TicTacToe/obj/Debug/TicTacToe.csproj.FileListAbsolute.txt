@@ -1,0 +1,7 @@
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\bin\Debug\TicTacToe.exe
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\obj\Debug\TicTacToe.exe
+E:\sem 9\C Sharp\project\ConsoleApp1\TicTacToe\obj\Debug\TicTacToe.pdb
